@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297513526172",
+    "project_id": "fcm-test-4e80c",
+    "storage_bucket": "fcm-test-4e80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297513526172:android:119330138f5c071601de59",
+        "android_client_info": {
+          "package_name": "com.example.cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297513526172-2idcuef01ogcu0jvghgfkh5n1eqvvir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqSDFK-QGC_QbIexMZ4M6WCADhukNH0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297513526172-2idcuef01ogcu0jvghgfkh5n1eqvvir1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
